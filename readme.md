@@ -21,6 +21,11 @@ This project is a small website with:
 - Responsive and simple styling
 - Personal profile and contact information
 
+## What it does
+- Helps you to search what you want
+- An email to contact me and inquire a question or feedback
+- Directs you to W3schools if you want to learn any languages and codes
+
 ## Author
 Able Jonathan Ruzindana
 
