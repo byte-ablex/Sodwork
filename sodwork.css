@@ -1,0 +1,94 @@
+
+    body {
+        background-color: #0f172a;
+        color: white;
+        font-family: arial, sans-serif;
+    }
+
+    header {
+        background-color: #020617;
+        color: white;
+        padding: 20px;
+        font-family: times new roman, serif;
+    }
+    header h1 {
+        color: #22c55e;
+        font-family: times new roman, serif;
+    }
+    button {
+        background-color: #22c55e;
+        color: #020617;
+        font-family: times new roman, serif;
+        font-size: 15px;
+    }
+    
+    nav{
+        text-align: right;
+    }
+    nav a {
+        color: white;
+        margin-left: 20px;
+        text-decoration: none;
+     }
+    
+     nav a:hover {
+        color: #22c55e
+     }
+     
+     section{
+        padding: 30px 20px;
+        text-align: center;
+        
+    }
+
+
+    section h2 {
+        color: #22c55e;
+        margin-bottom: 15px;
+        font-family: times new roman, serif;
+    }
+
+    section p{
+        color: #94a3b8;
+        font-family: times new roman, serif;
+    
+    }
+    div a{
+        color: #00e5a0;
+        margin-right: 10px;
+  }
+     
+
+  #contact {
+    background-color: #1e293b;
+    border: 5px solid #22c55e;
+    border-radius: 20px;
+    margin: 10px;
+
+ }
+    #contact a{
+    color: #22c55e;
+    text-decoration: none;
+
+}
+
+#contact a:hover {
+    color: #86efac;
+    text-decoration: underline;
+}
+
+
+footer {
+    color: #22c55e;
+    background-color: #020617;
+    text-align: center;
+    padding: 10px;
+    border: 2px solid #22c55e;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+footer p {
+    color: #94a3b8;
+    font-family: times new roman, serif;
+}
